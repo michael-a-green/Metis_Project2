@@ -217,3 +217,23 @@ Only worldwide gross listed
 ### Hawaii	http://www.imdb.com/title/tt2801746/	
 
 Nothing listed
+
+
+# Cross validation resulits for various different models
+
+
+## Baseline model
+
+scores -> [0.30860403 0.34518828 0.31298657 0.34964214 0.35548546]
+mean -> 0.3343812978689839
+standard deviation -> 0.3343812978689839
+
+
+
+## Model 2
+Adding `star_power` and `log_budget` features
+
+scores -> [0.30203254 0.37445679 0.37063384 0.32464363 0.30172603]
+mean -> 0.33469856798034875
+standard deviation -> 0.33469856798034875
+
