@@ -72,7 +72,4 @@ pip install -r pip_requirements.txt
 
 ## Possible Impacts of Project
 
-
-
-
-The git repo for my Metis Project 2 code.
+Hopefull someone will find this work interesting and suggest ways it could be improved or enhanced with new features.
