@@ -51,7 +51,7 @@ Along with a slew of other modules. Please see the python module requirements fi
 * `README.md`: This README file.
 * `Project2_Diagrams.graffle`: Diagrams used in documentation
 * `Michael_Green_Metis_Project2.pdf`: Presentation of this project in PDF format
-* `Michael_Green_Metis_Project2.ptpx`: Presentation of this project in Powerpoint format
+* `Michael_Green_Metis_Project2.pptx`: Presentation of this project in Powerpoint format
 * `mymovie.py`: Module that contains a class definition required to run `Project2.ipynb`
 
 ## Steps to reproduct this project
