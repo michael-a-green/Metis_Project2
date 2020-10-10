@@ -12,7 +12,7 @@ The [dependent variable](https://en.wikipedia.org/wiki/Dependent_and_independent
 
 ![Example Star Rating](./ferris_stars.jpg)
 
-I used the following aspects of the movie were used by the model as [features](https://en.wikipedia.org/wiki/Feature_(machine_learning)) of the movie to predict the above dependent value:
+I used the following aspects of the movie as [features](https://en.wikipedia.org/wiki/Feature_(machine_learning)) of the model to predict the above dependent value:
 
 ![some details](./ferris_details.jpg)
 
@@ -23,7 +23,6 @@ along with these details of the movie:
 Along with whether or not the director or any of the stars ever won an Academy Award for [Best Director](https://en.wikipedia.org/wiki/Academy_Award_for_Best_Director), [Best Actor](https://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor), or [Best Actress](https://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress) anytime between 2010 and 2019.
 
 I also employed a synthetic feature: $$log(Budget)$$
-
 
 ## Data Used
 
