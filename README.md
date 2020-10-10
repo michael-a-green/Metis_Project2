@@ -73,4 +73,4 @@ pip install -r pip_requirements.txt
 
 ## Possible Impacts of Project
 
-Hopefull someone will find this work interesting and suggest ways it could be improved or enhanced with new features.
+Hopefully someone will find this work interesting and suggest ways it could be improved or enhanced with new features.
