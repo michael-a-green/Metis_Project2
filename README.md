@@ -53,23 +53,15 @@ Along with a slew of other modules. Please see the python module requirements fi
 * `Michael_Green_Metis_Project2.pdf`: Presentation of this project in PDF format
 * `Michael_Green_Metis_Project2.pptx`: Presentation of this project in Powerpoint format
 * `mymovie.py`: Module that contains a class definition required to run `Project2.ipynb`
+* `conda_requirements.yml`: YML file you can use to setup the virtual environment required to run the project.
 
 ## Steps to reproduct this project
 
 1. clone this repo
-1. if you are using Anaconda Python run this command: `conda create --name imdb_venv --file conda_requirements.txt`
-1. if you are using pip run these commands:
-```
-python3 -m venv imdb_venv 
-source imdb_venv/bin/activate
-pip install -r pip_requirements.txt
-``` 
+1. if you are using Anaconda Python run this command: `conda env create -f conda_requirements.yml`
 1. Once that's done you should be able to start jupyter lab with this command: `jupyter lab`
 1. Within Jupyter Lab open the notebook file `Project2.ipynb`
 1. You should be able to run the cells. I suggest you read through the notebook. You will first have to run the scraping section of the notebook and then run the subsequent sections. Note it took me 14 hours to scrape the movie data I needed. [YMMV](https://www.allacronyms.com/YMMV/Your_Mileage_May_Vary) depending on how many movies you want to scrape, along with other settings you can choose within the notebook.
-
-
-
 
 ## Possible Impacts of Project
 
