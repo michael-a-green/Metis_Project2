@@ -66,7 +66,7 @@ pip install -r pip_requirements.txt
 ``` 
 1. Once that's done you should be able to start jupyter lab with this command: `jupyter lab`
 1. Within Jupyter Lab open the notebook file `Project2.ipynb`
-1. You should be able to run the cells. I suggest you read through the notebook. You will first have to run the scraping section of the notebook and then run the subsequent sections. Note it took me 14 hours to scrape the movie data I needed. [YMMV](https://www.allacronyms.com/YMMV/Your_Mileage_May_Vary) depending on how many files you want to scrape, along with other settings you can choose within the notebook.
+1. You should be able to run the cells. I suggest you read through the notebook. You will first have to run the scraping section of the notebook and then run the subsequent sections. Note it took me 14 hours to scrape the movie data I needed. [YMMV](https://www.allacronyms.com/YMMV/Your_Mileage_May_Vary) depending on how many movies you want to scrape, along with other settings you can choose within the notebook.
 
 
 
