@@ -49,7 +49,7 @@ Along with a slew of other modules. Please see the python module requirements fi
 * `Project2.ipynb`: The jupyter notebook that contains the web scrapping software, [EDA](https://en.wikipedia.org/wiki/Exploratory_data_analysis), model selection, and final model testing and evaluation code.
 * `my_project_notes.md`: Unofficial notes about the project that I wanted to keep under revision control. You can read through them but they are not required reading to understand the project or how to get it up and running
 * `README.md`: This README file.
-* `Project2_Diagrams.graffle`: Diagrams used in documentation
+* `Project2_Diagrams.graffle`: Diagrams used or not used in documentation
 * `Michael_Green_Metis_Project2.pdf`: Presentation of this project in PDF format
 * `Michael_Green_Metis_Project2.pptx`: Presentation of this project in Powerpoint format
 * `mymovie.py`: Module that contains a class definition required to run `Project2.ipynb`
