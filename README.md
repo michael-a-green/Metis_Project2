@@ -40,6 +40,7 @@ The model was developed with the following tools:
 * [Omni Graffle Pro](https://www.omnigroup.com/omnigraffle)
 * A PDF file viewer (Acrobat)
 * Microsoft Powerpoint
+* emacs (or some other preferred text editor)
 
 
 Along with a slew of other modules. Please see the python module requirements file (`conda_requirements.yml`) for a complete listing of everything you'll need to install if you would like to run this project.
@@ -54,6 +55,7 @@ Along with a slew of other modules. Please see the python module requirements fi
 * `Michael_Green_Metis_Project2.pptx`: Presentation of this project in Powerpoint format
 * `mymovie.py`: Module that contains a class definition required to run `Project2.ipynb`
 * `conda_requirements.yml`: YML file you can use to setup the virtual environment required to run the project.
+* `investigate_imdb_data_scrape_quality.ipynb`: A jupyter notebook I used to investigate issues I encountered while scraping IMDB. This notebook is not required for the project.
 
 ## Steps to reproduct this project
 
