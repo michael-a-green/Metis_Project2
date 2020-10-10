@@ -12,7 +12,7 @@ The [dependent variable](https://en.wikipedia.org/wiki/Dependent_and_independent
 
 ![Example Star Rating](./ferris_stars.jpg)
 
-I used the following features of the movie to predict that value:
+I used the following aspects of the movie were used by the model as [features](https://en.wikipedia.org/wiki/Feature_(machine_learning)) of the movie to predict the above dependent value:
 
 ![some details](./ferris_details.jpg)
 
