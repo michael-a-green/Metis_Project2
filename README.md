@@ -26,6 +26,8 @@ I also employed a synthetic feature: $$log(Budget)$$
 
 ## Data Used
 
+I scraped 4000 movies from IMDB.com. I scrapped movies that were released in the USA anytime between January 1, 2010 to December 31, 2019.
+
 ## Tools Used
 
 The model was developed with the following tools:
